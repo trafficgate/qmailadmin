@@ -117,6 +117,7 @@ qmailadmin/lang/sk -text
 qmailadmin/lang/sv -text
 qmailadmin/lang/tr -text
 qmailadmin/limits.c -text
+qmailadmin/ltmain.sh -text
 qmailadmin/mailinglist.c -text
 qmailadmin/missing -text
 qmailadmin/mkinstalldirs -text
