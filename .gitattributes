@@ -55,6 +55,8 @@ qmailadmin/html/add_listuser.html -text
 qmailadmin/html/add_mailinglist-idx.html -text
 qmailadmin/html/add_mailinglist-no-idx.html -text
 qmailadmin/html/add_user.html -text
+qmailadmin/html/change_password.html -text
+qmailadmin/html/change_password_success.html -text
 qmailadmin/html/colortable -text
 qmailadmin/html/del_autorespond_confirm.html -text
 qmailadmin/html/del_forward_confirm.html -text
