@@ -30,7 +30,6 @@ qmailadmin/README -text
 qmailadmin/README.hooks -text
 qmailadmin/TODO -text
 qmailadmin/TRANSLATORS -text
-qmailadmin/acconfig.h -text
 qmailadmin/aclocal.m4 -text
 qmailadmin/alias.c -text
 qmailadmin/auth.c -text
