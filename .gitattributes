@@ -43,6 +43,7 @@ qmailadmin/configure -text
 qmailadmin/configure.in -text
 qmailadmin/contrib/README.alias2forward -text
 qmailadmin/contrib/alias2forward.pl -text
+qmailadmin/depcomp -text
 qmailadmin/dotqmail.c -text
 qmailadmin/forward.c -text
 qmailadmin/html/add_autorespond.html -text
