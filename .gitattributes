@@ -10,6 +10,13 @@ CVSROOT/notify -text
 CVSROOT/rcsinfo -text
 CVSROOT/taginfo -text
 CVSROOT/verifymsg -text
+autorespond/ChangeLog -text
+autorespond/Makefile -text
+autorespond/README -text
+autorespond/autorespond.1 -text
+autorespond/autorespond.c -text
+autorespond/help_message -text
+autorespond/qmail-auto -text
 qmailadmin/AUTHORS -text
 qmailadmin/BUGS -text
 qmailadmin/CHANGELOG -text
