@@ -84,6 +84,7 @@ qmailadmin/images/disabled.png -text
 qmailadmin/images/lowerleft.png -text
 qmailadmin/images/lowermiddle.png -text
 qmailadmin/images/lowerright.png -text
+qmailadmin/images/main.png -text svneol=unset#unset
 qmailadmin/images/main1.png -text
 qmailadmin/images/main2.png -text
 qmailadmin/images/middleleft1.png -text
