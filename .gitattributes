@@ -1,8 +1,19 @@
 * text=auto !eol
+CVSROOT/checkoutlist -text
+CVSROOT/commitinfo -text
+CVSROOT/config -text
+CVSROOT/cvswrappers -text
+CVSROOT/editinfo -text
+CVSROOT/loginfo -text
+CVSROOT/modules -text
+CVSROOT/notify -text
+CVSROOT/rcsinfo -text
+CVSROOT/taginfo -text
+CVSROOT/verifymsg -text
 qmailadmin/AUTHORS -text
 qmailadmin/BUGS -text
-qmailadmin/CHANGELOG -text
 qmailadmin/COPYING -text
+qmailadmin/ChangeLog -text
 qmailadmin/FAQ -text
 qmailadmin/INSTALL -text
 qmailadmin/Makefile.am -text
@@ -12,7 +23,6 @@ qmailadmin/README -text
 qmailadmin/README.hooks -text
 qmailadmin/TODO -text
 qmailadmin/TRANSLATORS -text
-qmailadmin/acconfig.h -text
 qmailadmin/aclocal.m4 -text
 qmailadmin/alias.c -text
 qmailadmin/auth.c -text
@@ -26,8 +36,10 @@ qmailadmin/configure -text
 qmailadmin/configure.in -text
 qmailadmin/contrib/README.alias2forward -text
 qmailadmin/contrib/alias2forward.pl -text
+qmailadmin/depcomp -text
 qmailadmin/dotqmail.c -text
 qmailadmin/forward.c -text
+qmailadmin/html/README -text
 qmailadmin/html/add_autorespond.html -text
 qmailadmin/html/add_forward.html -text
 qmailadmin/html/add_listdig.html -text
@@ -81,10 +93,12 @@ qmailadmin/images/uppermiddle1.png -text
 qmailadmin/images/uppermiddle2.png -text
 qmailadmin/images/upperright.png -text
 qmailadmin/install-sh -text
+qmailadmin/lang/bg -text
 qmailadmin/lang/da -text
 qmailadmin/lang/de -text
 qmailadmin/lang/en -text
 qmailadmin/lang/es -text
+qmailadmin/lang/fi -text
 qmailadmin/lang/fr -text
 qmailadmin/lang/hu -text
 qmailadmin/lang/it -text
@@ -92,12 +106,13 @@ qmailadmin/lang/ja -text
 qmailadmin/lang/nl -text
 qmailadmin/lang/no -text
 qmailadmin/lang/pl -text
-qmailadmin/lang/pt-BR -text
+qmailadmin/lang/pt-br -text
 qmailadmin/lang/ru -text
 qmailadmin/lang/sk -text
 qmailadmin/lang/sv -text
 qmailadmin/lang/tr -text
 qmailadmin/limits.c -text
+qmailadmin/ltmain.sh -text
 qmailadmin/mailinglist.c -text
 qmailadmin/missing -text
 qmailadmin/mkinstalldirs -text
