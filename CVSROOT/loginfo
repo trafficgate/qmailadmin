@@ -25,5 +25,5 @@
 # or
 #DEFAULT (echo ""; id; echo %{sVv}; date; cat) >> $CVSROOT/CVSROOT/commitlog
 
-CVSROOT /cvsroot/sitedocs/CVSROOT/cvstools/syncmail -u --context=4 %{sVv} tomcollins@users.sourceforge.net
-DEFAULT /cvsroot/sitedocs/CVSROOT/cvstools/syncmail -u --context=4 %{sVv} qmailadmin-cvs@lists.sourceforge.net
+CVSROOT /cvsroot/sitedocs/CVSROOT/cvstools/syncmail -u -C 4 %{sVv} tomcollins@users.sourceforge.net
+DEFAULT /cvsroot/sitedocs/CVSROOT/cvstools/syncmail -u -C 4 %{sVv} qmailadmin-cvs@lists.sourceforge.net
