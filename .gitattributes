@@ -117,6 +117,8 @@ qmailadmin/ltmain.sh -text
 qmailadmin/mailinglist.c -text
 qmailadmin/missing -text
 qmailadmin/mkinstalldirs -text
+qmailadmin/printh.c -text
+qmailadmin/printh.h -text
 qmailadmin/qmailadmin.c -text
 qmailadmin/qmailadmin.h -text
 qmailadmin/qmailadminx.h -text
