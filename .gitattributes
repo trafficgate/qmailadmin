@@ -12,8 +12,8 @@ CVSROOT/taginfo -text
 CVSROOT/verifymsg -text
 qmailadmin/AUTHORS -text
 qmailadmin/BUGS -text
+qmailadmin/CHANGELOG -text
 qmailadmin/COPYING -text
-qmailadmin/ChangeLog -text
 qmailadmin/FAQ -text
 qmailadmin/INSTALL -text
 qmailadmin/Makefile.am -text
@@ -39,7 +39,6 @@ qmailadmin/contrib/alias2forward.pl -text
 qmailadmin/depcomp -text
 qmailadmin/dotqmail.c -text
 qmailadmin/forward.c -text
-qmailadmin/html/README -text
 qmailadmin/html/add_autorespond.html -text
 qmailadmin/html/add_forward.html -text
 qmailadmin/html/add_listdig.html -text
@@ -98,7 +97,6 @@ qmailadmin/lang/da -text
 qmailadmin/lang/de -text
 qmailadmin/lang/en -text
 qmailadmin/lang/es -text
-qmailadmin/lang/fi -text
 qmailadmin/lang/fr -text
 qmailadmin/lang/hu -text
 qmailadmin/lang/it -text
