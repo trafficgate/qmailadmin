@@ -19,8 +19,8 @@ autorespond/help_message -text
 autorespond/qmail-auto -text
 qmailadmin/AUTHORS -text
 qmailadmin/BUGS -text
-qmailadmin/CHANGELOG -text
 qmailadmin/COPYING -text
+qmailadmin/ChangeLog -text
 qmailadmin/FAQ -text
 qmailadmin/INSTALL -text
 qmailadmin/Makefile.am -text
