@@ -67,7 +67,6 @@ qmailadmin/html/header.html -text
 qmailadmin/html/main_menu.html -text
 qmailadmin/html/menu_user.html -text
 qmailadmin/html/mod_autorespond.html -text
-qmailadmin/html/mod_autorespond_line.html -text
 qmailadmin/html/mod_dotqmail.html -text
 qmailadmin/html/mod_dotqmail_line.html -text
 qmailadmin/html/mod_mailinglist-idx.html -text
