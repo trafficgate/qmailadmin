@@ -46,6 +46,7 @@ qmailadmin/dotqmail.c -text
 qmailadmin/dotqmail.h -text
 qmailadmin/forward.c -text
 qmailadmin/forward.h -text
+qmailadmin/html.h -text
 qmailadmin/html/README -text
 qmailadmin/html/add_autorespond.html -text
 qmailadmin/html/add_forward.html -text
