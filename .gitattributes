@@ -7,9 +7,7 @@ autorespond/autorespond.c -text
 autorespond/help_message -text
 autorespond/qmail-auto -text
 qmailadmin/ChangeLog -text
-qmailadmin/Makefile.am -text
 qmailadmin/Makefile.in -text
-qmailadmin/aclocal.m4 -text
 qmailadmin/alias.c -text
 qmailadmin/alias.h -text
 qmailadmin/auth.c -text
@@ -24,10 +22,9 @@ qmailadmin/config.guess -text
 qmailadmin/config.h.in -text
 qmailadmin/config.sub -text
 qmailadmin/configure -text
-qmailadmin/configure.in -text
+qmailadmin/configure.ac -text
 qmailadmin/contrib/README.alias2forward -text
 qmailadmin/contrib/alias2forward.pl -text
-qmailadmin/depcomp -text
 qmailadmin/doc/AUTHORS -text
 qmailadmin/doc/BUGS -text
 qmailadmin/doc/COPYING -text
@@ -51,6 +48,7 @@ qmailadmin/html/add_listmod.html -text
 qmailadmin/html/add_listuser.html -text
 qmailadmin/html/add_mailinglist-idx.html -text
 qmailadmin/html/add_mailinglist-no-idx.html -text
+qmailadmin/html/add_mymailbox.html -text
 qmailadmin/html/add_user.html -text
 qmailadmin/html/change_password.html -text
 qmailadmin/html/change_password_success.html -text
@@ -61,6 +59,7 @@ qmailadmin/html/del_listdig.html -text
 qmailadmin/html/del_listmod.html -text
 qmailadmin/html/del_listuser.html -text
 qmailadmin/html/del_mailinglist_confirm.html -text
+qmailadmin/html/del_mymailbox.html -text
 qmailadmin/html/del_user_confirm.html -text
 qmailadmin/html/footer.html -text
 qmailadmin/html/header.html -text
@@ -68,6 +67,7 @@ qmailadmin/html/main_menu.html -text
 qmailadmin/html/mod_autorespond.html -text
 qmailadmin/html/mod_dotqmail.html -text
 qmailadmin/html/mod_mailinglist-idx.html -text
+qmailadmin/html/mod_mymailbox.html -text
 qmailadmin/html/mod_user.html -text
 qmailadmin/html/setremotecatchall.html -text
 qmailadmin/html/show_autorespond.html -text
@@ -76,6 +76,7 @@ qmailadmin/html/show_forwards.html -text
 qmailadmin/html/show_login.html -text
 qmailadmin/html/show_mailinglist.html -text
 qmailadmin/html/show_moderators.html -text
+qmailadmin/html/show_mymailboxes.html -text
 qmailadmin/html/show_subscribers.html -text
 qmailadmin/html/show_users.html -text
 qmailadmin/images/delete.png -text
@@ -123,11 +124,12 @@ qmailadmin/lang/tr -text
 qmailadmin/lang/zh-cn -text
 qmailadmin/limits.c -text
 qmailadmin/limits.h -text
-qmailadmin/ltmain.sh -text
 qmailadmin/mailinglist.c -text
 qmailadmin/mailinglist.h -text
 qmailadmin/missing -text
 qmailadmin/mkinstalldirs -text
+qmailadmin/mymailboxes.c -text
+qmailadmin/mymailboxes.h -text
 qmailadmin/printh.c -text
 qmailadmin/printh.h -text
 qmailadmin/qmailadmin.c -text
