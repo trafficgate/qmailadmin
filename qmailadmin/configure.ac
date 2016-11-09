@@ -1,8 +1,9 @@
 dnl Process this file with autoconf to produce a configure script.
 
-AC_INIT(qmailadmin.c)
-AM_INIT_AUTOMAKE($QA_PACKAGE,$QA_VERSION, [no-define])
-AM_CONFIG_HEADER(config.h)
+AC_INIT([qmailadmin], [1.2.6])
+AC_CONFIG_SRCDIR([qmailadmin.c])
+AC_CONFIG_HEADERS([config.h])
+AM_INIT_AUTOMAKE
 AC_CANONICAL_HOST
 
 QA_PACKAGE="qmailadmin"
